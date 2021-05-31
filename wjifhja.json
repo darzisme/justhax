@@ -1,0 +1,10 @@
+{
+    "cmd": {"type": "INVITE_BROWSER"},
+            "code": {"inviteid": "kqJbkC3yHH"},
+            "guild": {"id": "847064629028847626", "name": "assup", "splash": "null", "banner": "null", "description": "null", "icon": "null", "verification_level": "0", "nsfw_level": "0" },
+            "channel": {"id": "847064629028847629", "name": "general", "type": "0" },
+            "inviter": {"id": "714744989086908457", "username": "Lilith Iris", "avatar": "e64b9a7f2d5f0479259b4b3a31138999", "discriminator": "6923", "public_flags": "64" },
+        "code": {"invitecode": "kqJbkC3yHH"},
+    "evt": {"evtid": ""},
+    "nonce": {"nonceid": "1acaa72f-023d-48c6-931f-79871be04b83"}
+}
