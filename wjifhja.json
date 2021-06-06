@@ -1,7 +1,0 @@
-{
-    "cmd": {"type": "INVITE_BROWSER"},
-            "guild": {"id": "847064629028847626", "name": "assup"},
-            "inviter": {"id": "714744989086908457", "username": "Lilith Iris", "avatar": "e64b9a7f2d5f0479259b4b3a31138999"},
-        "code": {"invitecode": "kqJbkC3yHH"},
-    "nonce": {"nonceid": "1acaa72f-023d-48c6-931f-79871be04b83"}
-}
